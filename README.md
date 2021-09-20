@@ -12,4 +12,7 @@
 * When we are still a new trader and we don't have enough money not to usee leverage, we stick with the low frameworks like 15 mins and 30 mins or even less. That is calles scalp trading.
 * You can put your take profit line in the safest spot in order to reduce the risk.
 * Always wait for the setup to confirm. That is very important.
+* Remember till the process is still open, you haven't lost or gain anything yet. 
+* When you have placed the stoploss and take profit, constantly looking at the trend doesn't help and it sometimes makes you act in the wrong place.
+* 
 
