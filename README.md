@@ -14,5 +14,6 @@
 * Always wait for the setup to confirm. That is very important.
 * Remember till the process is still open, you haven't lost or gain anything yet. 
 * When you have placed the stoploss and take profit, constantly looking at the trend doesn't help and it sometimes makes you act in the wrong place.
+* You can use other timeframes to determine your stops and profit taking. Do not always stick to the final destination. You are supposed to move with the resistance and support lines defined either by fibbonachi or ichimoku or both.
 * 
 
