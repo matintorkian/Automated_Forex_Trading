@@ -22,5 +22,13 @@
 * When you have placed the stoploss and take profit, constantly looking at the trend doesn't help and it sometimes makes you act in the wrong place.
 * You can use other timeframes to determine your stops and profit taking. Do not always stick to the final destination. You are supposed to move with the resistance and support lines defined either by fibbonachi or ichimoku or both.
 * You don't need to trade every day. It's a fact that some days there are not appropriate frames to tade. NO TRADING is better than getting stopped over and over again.
-* 
 
+
+## Fast Scalp Trading
+
+* The strategy is to take small profits in short times (scale of short times is from a min to at most 10 to 15 mins).
+* In this strategy, the only instrument is the price action and the candels.
+* It is better to trade only in time of New york-London overlap and do not trade more than 3 to 4 trades a day in the beggining.
+* The close price from the day before is an imprtant area to consider for the day.
+* The area in which the price was ranging in the Tokyo-Syndy overlap is another important area that the price might have reactions to these areas over and over again.
+* As a fast scalp trader, you might get more signals from 1m chart but you have to check 5m and maybe 15m sometimes as well. But remember more than 5m charts are not for getting signals in this strategy.
