@@ -32,3 +32,7 @@
 * The close price from the day before is an imprtant area to consider for the day.
 * The area in which the price was ranging in the Tokyo-Syndy overlap is another important area that the price might have reactions to these areas over and over again.
 * As a fast scalp trader, you might get more signals from 1m chart but you have to check 5m and maybe 15m sometimes as well. But remember more than 5m charts are not for getting signals in this strategy.
+
+#### Useful Links
+* [Scalping: Small Quick Profits Can Add Up](https://www.investopedia.com/articles/trading/05/scalping.asp)
+* [Exit Strategy](https://www.investopedia.com/terms/e/exitstrategy.asp)
