@@ -28,10 +28,25 @@
 
 * The strategy is to take small profits in short times (scale of short times is from a min to at most 10 to 15 mins).
 * In this strategy, the only instrument is the price action and the candels.
-* It is better to trade only in time of New york-London overlap and do not trade more than 3 to 4 trades a day in the beggining.
+* It is better to trade only in time of Newyork-London overlap (golden time: When important banks come into play) and do not trade more than 3 to 4 trades a day in the beggining.
 * The close price from the day before is an imprtant area to consider for the day.
 * The area in which the price was ranging in the Tokyo-Syndy overlap is another important area that the price might have reactions to these areas over and over again.
 * As a fast scalp trader, you might get more signals from 1m chart but you have to check 5m and maybe 15m sometimes as well. But remember more than 5m charts are not for getting signals in this strategy.
+* News are not really taken into account in this stratagy. 
+* It is important to mark the time periods by vertical lines (You can seet it in the chart settings as period separation).
+* The perivious days close prise is an important area of price action. 
+* In this particular strategy, sometimes even if the chart is only ranging between two areas, we can trade the range.
+* One of the keys to get buy and sell signals are **Candels** in this strategy. We have to include a locally bigger candel as a **Watch Cnadel** then wait for the next candel to send a signal as a **Signal Candel** then we have to wait for one other candel to confirm the trend and we can enter the market based on the situation. 
+* The next step is to place stop-loss and take-profit. Make some changes to Fibbo Retracement as it follows:
+  * Delete all the Fibbo numbers. We won't need them. Replace the first line with SL (Stop Loss).
+  * Replace second line with EN (Enter).
+  * Replace the next lines with TP1, TP2,..., TP7 (Normally not more than 7 Take Profits. Its up to you).
+  * place the entry point and continue the mouse to put the stop (normally end of the signal candel). 
+  * Wait for the profits (close manually). It is completely base on the situation. Sometimes you get 7 and sometimes even 3 or less.
+
+* **THREE POINT TOUCH**: When you see the chart reacted three times to the same area or line, you probably should be expecting a rally afterwards. You can profit from this point.  
+  
+
 
 #### Useful Links
 * [Scalping: Small Quick Profits Can Add Up](https://www.investopedia.com/articles/trading/05/scalping.asp)
