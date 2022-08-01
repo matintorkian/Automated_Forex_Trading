@@ -46,6 +46,9 @@
 
 * **THREE POINT TOUCH**: When you see the chart reacted three times to the same area or line, you probably should be expecting a rally afterwards. You can profit from this point.  
   
+  ## New Approach
+  
+  This approach is based on close prises in different days and other most important support and resistanse lines in a specific day. We use close prises even from old days and they work for use. You need yo specify them by drawing a universal horisoontal line on the point. The next step is to use 10 and 20 moving averages to comfirm the moves on the support lines we drew earlier. Working only in 1M chart drives me crazy and I need mostly need the 5M chart and sometimes 1M chart helps to have better entry and exit points. It is better to only work after the London bank is open. It is better to choose the symbols with less commision and also watch the candles. Move your stop as the price changes. 
 
 
 #### Useful Links
